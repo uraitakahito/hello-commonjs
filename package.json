@@ -1,6 +1,6 @@
 {
-  "name": "hello-commonjs",
-  "version": "1.0.0",
+  "name": "@uraitakahito/hello-commonjs",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
     "hello-commonjs": "./index.js"
