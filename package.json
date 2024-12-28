@@ -1,0 +1,21 @@
+{
+  "name": "hello-commonjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "hello-commonjs": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
