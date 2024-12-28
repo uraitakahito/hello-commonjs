@@ -1,9 +1,10 @@
 {
   "name": "@uraitakahito/hello-commonjs",
-  "version": "1.0.1",
-  "main": "index.js",
-  "bin": {
-    "hello-commonjs": "./index.js"
+  "version": "1.0.4",
+  "main": "lib/modules.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uraitakahito/hello-commonjs.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +16,6 @@
     "access": "public"
   },
   "files": [
-    "index.js",
     "lib"
   ]
 }
