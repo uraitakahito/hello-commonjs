@@ -1,6 +1,6 @@
 {
   "name": "@uraitakahito/hello-commonjs",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "lib/hello-commonjs.js",
   "types": "./lib/index.d.ts",
   "repository": {

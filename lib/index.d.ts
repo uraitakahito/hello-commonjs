@@ -1,3 +1,1 @@
-declare module "hello-commonjs" {
-  export function say(): string;
-}
+export function say(): string;
